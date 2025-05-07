@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Legondi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9969cd4408b57d2e4eb27fb1dbd87439b5907c0f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Legondi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Legondi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

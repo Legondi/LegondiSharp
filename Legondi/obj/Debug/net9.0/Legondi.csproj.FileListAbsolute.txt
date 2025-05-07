@@ -26,3 +26,4 @@ C:\Legondi\CSharp\Legondi\obj\Debug\net9.0\refint\Legondi.dll
 C:\Legondi\CSharp\Legondi\obj\Debug\net9.0\Legondi.pdb
 C:\Legondi\CSharp\Legondi\obj\Debug\net9.0\Legondi.genruntimeconfig.cache
 C:\Legondi\CSharp\Legondi\obj\Debug\net9.0\ref\Legondi.dll
+C:\Legondi\CSharp\Legondi\obj\Debug\net9.0\Legondi.sourcelink.json
