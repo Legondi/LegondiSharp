@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Code", "Code\Code.csproj", "{FC2000A9-68F3-1142-BCB6-42812CE56025}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Legondi", "Legondi\Legondi.csproj", "{AC034289-0414-D871-8966-DDC1EB9DA416}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC2000A9-68F3-1142-BCB6-42812CE56025}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC2000A9-68F3-1142-BCB6-42812CE56025}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC2000A9-68F3-1142-BCB6-42812CE56025}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC2000A9-68F3-1142-BCB6-42812CE56025}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC034289-0414-D871-8966-DDC1EB9DA416}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC034289-0414-D871-8966-DDC1EB9DA416}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC034289-0414-D871-8966-DDC1EB9DA416}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC034289-0414-D871-8966-DDC1EB9DA416}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E65910EA-5965-416A-B304-422CFC6AEEC1}
+	EndGlobalSection
+EndGlobal
