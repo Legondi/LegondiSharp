@@ -94,4 +94,33 @@ namespace Legondi
 
     }
 
+    public static class SomaMedia 
+    {
+
+        public static void ExeFor1() 
+        {
+
+            int i = 1, val, acumulo = 0, cont = 0;
+		    float med = 0;
+		    
+            for (;i <= 10; i++) {
+		
+			    Console.WriteLine("digite um valor: ");
+			
+			    val = int.Parse(Console.ReadLine());
+			
+			    cont = cont + 1;
+			
+			    acumulo = acumulo + val;
+		 	
+			    med = (float)acumulo / cont;
+	    	}
+		    
+            Console.WriteLine("A soma dos valores é: " + acumulo);
+			Console.WriteLine("A Média dos Valores é: " + med);
+
+        }
+
+    }
+
 }
